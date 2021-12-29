@@ -30,15 +30,6 @@ let counter = setInterval(() => {
   }
 }, 1000);
 
-/*
- ** Animate Width On Scrolling
- ** Video URL: https://youtu.be/sbIoIKI9FOc
- */
-
-/*
- ** Increase Numbers On Scrolling
- ** Video URL: https://youtu.be/PLsUdgLnzgQ
- */
 
 let progressSpans = document.querySelectorAll(".the-progress span");
 let section = document.querySelector(".our-skills");
